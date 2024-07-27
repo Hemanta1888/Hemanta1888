@@ -18,6 +18,6 @@ I'm always open to collaboration and exploring new opportunities.
 
 ### Latest Projects
 
-- **[Scalable ETL Pipeline](https://github.com/Hemanta1888/etl-pipeline)**: A robust ETL pipeline built using Metaflow to handle data ingestion, transformation, and loading into PostgreSQL.
+- **[Metaflow ETL Pipeline](https://github.com/Hemanta1888/metaflow_project)**: A robust ETL pipeline built using Metaflow to handle data ingestion, transformation, and loading into PostgreSQL.
 
 **Latest Follower:** [Hemanta](https://github.com/Hemanta1888) 👋
