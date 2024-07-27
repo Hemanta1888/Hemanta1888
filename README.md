@@ -1,12 +1,23 @@
-<h1> I'm Hemanta & I ❤️ coding.</h1>
+# Hi, I'm Hemanta 💖 Coding Enthusiast
 
-<!---
-Hemanta1888/Hemanta1888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Hemanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanta1888)](https://github.com/Hemanta1888/github-readme-stats)
+[![Hemanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanta1888&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)](https://github.com/Hemanta1888)
 
+### Currently Working As a Data Engineer
+I'm always open to collaboration and exploring new opportunities.
 
-<h4>Currently I am  working as python developer but I  always open for cooperation.</h4>
-Latest follower – <a href="https://github.com/Hemanta1888/" target="_blank">Hemanta</a>👋</h5>
-<hr>
+---
+
+### About Me
+
+- 🔭 I’m currently working as a **Data Engineer**.
+- 🌱 I’m currently learning **Modern data engineering tech stacks **, **Data Structures & Algorithms**, **Cloud**, and **Design Patterns**.
+- 💬 Ask me about **data engineering**, **machine learning**, **LLM**, and **workflow management**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hemantak/)
+
+---
+
+### Latest Projects
+
+- **[Scalable ETL Pipeline](https://github.com/Hemanta1888/etl-pipeline)**: A robust ETL pipeline built using Metaflow to handle data ingestion, transformation, and loading into PostgreSQL.
+
+**Latest Follower:** [Hemanta](https://github.com/Hemanta1888) 👋
