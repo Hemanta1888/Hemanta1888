@@ -10,7 +10,7 @@ I'm always open to collaboration and exploring new opportunities.
 ### About Me
 
 - 🔭 I’m currently working as a **Data Engineer**.
-- 🌱 I’m currently learning **Modern data engineering tech stacks **, **Data Structures & Algorithms**, **Cloud**, and **Design Patterns**.
+- 🌱 I’m currently learning **Modern data engineering tech stacks**, **Data Structures & Algorithms**, **Cloud**, and **Design Patterns**.
 - 💬 Ask me about **data engineering**, **machine learning**, **LLM**, and **workflow management**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hemantak/)
 
