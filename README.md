@@ -36,6 +36,8 @@
 * Deployed via **FastAPI on AWS EC2**
 * Focus: Legal document understanding & search
 
+🔗 https://github.com/Hemanta1888/Litigation-GPT
+
 ---
 
 ### 🤖 Daily AI Assistant (Agentic System)
