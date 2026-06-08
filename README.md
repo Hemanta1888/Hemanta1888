@@ -61,7 +61,7 @@
 
 ### 🤖 AI / GenAI
 
-LLMs • RAG • LangGraph • LangChain • Prompt Engineering • Embeddings • ChromaDB • spaCy 
+LLMs • RAG • LangGraph • LangChain • Prompt Engineering • Embeddings • ChromaDB • spaCy • Pytorch • NLP • HuggingFace • LangFuse * Transformer    
 
 ### ⚙️ Backend & Systems
 
